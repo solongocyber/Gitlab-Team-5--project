@@ -1,4 +1,5 @@
 # Gitlab-Team-5--project
+<<<<<<< HEAD
 
 ![Gitlab](https://adambcomer.com/blog/assets/img/post-1-cover.jpeg)
 
@@ -24,3 +25,6 @@ According to the GitLab requirements page, it is recommended to use a server wit
 - Domain or subdomain pointing to the server IP address. (optional)
 - The user you are logging in as must have sudo privileges to be able to install packages
 
+=======
+<img width="479" alt="Screen Shot 2020-06-22 at 2 20 41 AM" src="https://user-images.githubusercontent.com/63433671/85261291-8c644480-b431-11ea-9bdd-7ff7f0a0eb77.png">
+>>>>>>> de05a4f5f96705656a116255b57d5fcc6930f413

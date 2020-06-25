@@ -1,10 +1,10 @@
 region         = "us-east-1"
 
-key_name       = "gitlap-team-5"
+key_name       = "gitlab-team-5"
 
 public_key     = "~ /.ssh/id_rsa.pub"
 
-instance_type  = "t2.micro"
+instance_type  = "t2.medium"
 
 vpc_cidr     = "10.0.0.0/16" 
 
@@ -27,7 +27,7 @@ tags = {
 }
 
 
-ami             =   "ami-09d95fab7fff3776c"
+# ami             =   ""
 
 private1_cidr   =       "10.0.1.0/24"
 private2_cidr   =       "10.0.2.0/24"

@@ -15,7 +15,7 @@ variable "availability_zone3"{}
 variable "tags" {
     type = "map" 
 }
-variable "ami"{}
+# variable "ami"{}
 variable "httpd"{}
 variable "httpd2"{}
 variable "ssh"{}

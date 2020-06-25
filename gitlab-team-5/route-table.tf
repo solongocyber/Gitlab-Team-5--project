@@ -34,7 +34,7 @@ resource "aws_route_table" "gitlab-team-5-rt" {
 
   route {
     cidr_block = "0.0.0.0/0"
-    gateway_id = "${aws_internet_gateway.gitlab-team-5-gateway.id}"          
+    nat_gateway_id = "${aws_nat_gateway.gitlab-nat.id}"          
   }
 }
 

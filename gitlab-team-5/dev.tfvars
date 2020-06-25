@@ -1,6 +1,6 @@
 region         = "us-east-1"
 
-key_name       = "gitlab-team-5"
+key_name       = "gitlab-team5"
 
 public_key     = "~ /.ssh/id_rsa.pub"
 
